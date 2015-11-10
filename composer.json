@@ -1,6 +1,7 @@
 {
     "name": "viktor1984/yii2-test",
     "description": "The test for the Yii framework",
+    "version": "0.0.1",
     "keywords": ["yii", "test"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
