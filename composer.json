@@ -5,6 +5,12 @@
     "keywords": ["yii", "test"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/viktor1984/yii2-test.git"
+        }
+    ],
     "support": {
         "issues": "",
         "source": ""
