@@ -1,7 +1,7 @@
 {
-    "name": "victor/yii2-daterangepicker",
-    "description": "The date range picker extension for the Yii framework",
-    "keywords": ["yii", "date", "picker", "bootstrap"],
+    "name": "victor/yii2-test",
+    "description": "The test for the Yii framework",
+    "keywords": ["yii", "test"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
@@ -18,6 +18,6 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": { "yiicms\\widgets\\": "" }
+        "psr-4": { "victor\\widgets\\": "" }
     }
 }
